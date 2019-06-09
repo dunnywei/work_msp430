@@ -7,3 +7,7 @@ https://blog.csdn.net/weixin_43830248/article/details/85217404
 3->MSP430单片机各种寄存器总结（1）——CPU 寄存器
 
   https://blog.csdn.net/u011123091/article/details/52740002
+4->MSP430单片机各种寄存器总结（2）——UCS
+https://blog.csdn.net/weixin_43830248/article/details/85202949
+
+5->
