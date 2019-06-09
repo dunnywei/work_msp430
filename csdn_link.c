@@ -12,7 +12,13 @@ https://blog.csdn.net/weixin_43830248/article/details/85202949
     -(2.4) UCSCTL4
     -Selecting source signal of  SMCLK, ACLK and MCLK in UCSCTL4
     -Memory address Register (Mar)->(https://en.m.wikipedia.org/wiki/Memory_address_register)
-    -
+-Memory address register(MAR) vs memory data register(MDR)
+    -Square brackets
+    –contents of the register (or the memory location) contents of the register (or the memory location)
+For example, [MAR] is interpreted as “the contents of the
+memory address register”
+[MAR] = 3
+    -https://sites.ualberta.ca/~smartynk/Resources/ECE%20212/L03_cpu_memory.pdf
     -
     -
     -
