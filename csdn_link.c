@@ -21,7 +21,10 @@ memory address register”
     -https://sites.ualberta.ca/~smartynk/Resources/ECE%20212/L03_cpu_memory.pdf
     -
     -
-    -
+5->MSP430单片机各种寄存器总结（3）——IO
+https://blog.csdn.net/weixin_43830248/article/details/85215951
+    -PxREN register, Pull up/down resistors
+https://siddharthnandhanp.wordpress.com/2015/06/07/pxren-register-pull-updown-resistors/
     -
     -
     -
