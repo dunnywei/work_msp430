@@ -23,9 +23,43 @@ memory address register”
     -
 5->MSP430单片机各种寄存器总结（3）——IO
 https://blog.csdn.net/weixin_43830248/article/details/85215951
+    -See youtube of "Electronics 201:Pull-up and pull-down resistor"
+->PULL up resistor
+    -If the switch is open, the 5V will go to the CPU->Turns ON
+    -If the switch is closed, the 5V will go to the ground->Turns OFF
+    -The reason is that there is the internal impedence within the pin of CPU, therefore current will choose to flow with the one 
+    in least impedence (6:30) 
+->Pull Down resistor (7:04)
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
     -PxREN register, Pull up/down resistors
 https://siddharthnandhanp.wordpress.com/2015/06/07/pxren-register-pull-updown-resistors/
-    -
+    -enable/disable pull up/pull down resistor
     -
     -
     -
