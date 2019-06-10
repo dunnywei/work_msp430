@@ -1,3 +1,6 @@
+0->MSP430F5438 I2C学习笔记——AT24C02
+https://blog.csdn.net/xukai871105/article/details/10286599
+
 1->MSP430学习笔记1——msp430概述
 https://blog.csdn.net/mao_hui_fei/article/details/80482465
 
