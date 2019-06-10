@@ -1,3 +1,7 @@
+-1->bitwise operation
+MSP-EXP430FR2311_Software_Examples_windows
+http://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP-EXP430FR2311/latest/index_FDS.html
+
 0->MSP430F5438 I2C学习笔记——AT24C02
 https://blog.csdn.net/xukai871105/article/details/10286599
 
