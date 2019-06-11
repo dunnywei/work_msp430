@@ -1,5 +1,6 @@
 -2->deboucing
 https://reference.digilentinc.com/learn/microprocessor/tutorials/debouncing-via-software/start
+https://www.youtube.com/results?search_query=software+debouncing
 
 -1->bitwise operation
 MSP-EXP430FR2311_Software_Examples_windows
