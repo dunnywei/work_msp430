@@ -1,3 +1,6 @@
+-2->deboucing
+https://reference.digilentinc.com/learn/microprocessor/tutorials/debouncing-via-software/start
+
 -1->bitwise operation
 MSP-EXP430FR2311_Software_Examples_windows
 http://software-dl.ti.com/msp430/msp430_public_sw/mcu/msp430/MSP-EXP430FR2311/latest/index_FDS.html
