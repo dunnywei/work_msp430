@@ -1,3 +1,5 @@
+-4->UART
+https://www.youtube.com/watch?v=V6m2skVlsQI
 -3->localtime_r issue
 https://bbs.csdn.net/topics/350255556
 -2->deboucing
