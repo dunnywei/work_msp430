@@ -1,3 +1,7 @@
+-3->UART msp430 csdn
+-https://blog.csdn.net/xforce94/article/details/20227127
+-
+
 -4->UART
 https://www.youtube.com/watch?v=V6m2skVlsQI
 https://www.youtube.com/watch?v=MebhACqcdno
