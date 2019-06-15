@@ -1,3 +1,5 @@
+-5->uart msp 430 example
+   http://www.simplyembedded.org/tutorials/msp430-uart/
 -3->UART msp430 csdn
 -https://blog.csdn.net/xforce94/article/details/20227127
 -
