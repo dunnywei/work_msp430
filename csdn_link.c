@@ -1,3 +1,8 @@
+-7->msp430 watchdog timer example
+-slac668h.zip
+-http://www.ti.com/product/MSP430FR6989
+-https://e2e.ti.com/support/microcontrollers/msp430/f/166/t/444678?MSP430FR69989-Watchdog-Example
+
 -6->MSP430 nmi csdn
 -https://blog.csdn.net/TFTJT/article/details/52880055
 -https://blog.csdn.net/xdyegong/article/details/50225157
