@@ -1,3 +1,7 @@
+-6->MSP430 nmi csdn
+-https://blog.csdn.net/TFTJT/article/details/52880055
+-https://blog.csdn.net/xdyegong/article/details/50225157
+
 -5->uart msp 430 example
    http://www.simplyembedded.org/tutorials/msp430-uart/
 -3->UART msp430 csdn
