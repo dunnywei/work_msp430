@@ -1,3 +1,18 @@
+-8->pxout msp430 43 as ->https://siddharthnandhanp.wordpress.com/2015/06/07/pxdir-register/
+    -P3DIR->0 means output and 1 means input
+       -so P1DIR=BIT1 + BIT6; means port1pin1 and port1 pin6 is output
+       -
+       -
+       -
+       -
+       -
+    -
+    -
+    -
+    -
+    -
+    -
+
 -7->msp430 watchdog timer example
 -slac668h.zip
 -http://www.ti.com/product/MSP430FR6989
