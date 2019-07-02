@@ -3,7 +3,8 @@
        -example 1->so P1DIR=BIT1 + BIT6; means port1pin1 and port1 pin6 is output
        -example 2 P3DIR&0x01->port3pin0 is output, other pins are input as
   https://siddharthnandhanp.wordpress.com/2015/06/07/pxin-register/
-       -
+       -p1selx example
+           ->https://siddharthnandhanp.wordpress.com/2015/06/15/pxsel-register/
        -
        -
        -
