@@ -1,3 +1,5 @@
+-10->fall edge interrupt
+    ->http://referencedesigner.com/blog/msp430-interrupt-rising-and-falling-edge/2089/
 -9->edge detection->https://www.youtube.com/watch?v=R3WSlk9lHss
                   ->https://www.embeddedrelated.com/showarticle/182.php
 
