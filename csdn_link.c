@@ -1,5 +1,5 @@
 -9->edge detection->https://www.youtube.com/watch?v=R3WSlk9lHss
-    
+                  ->https://www.embeddedrelated.com/showarticle/182.php
 
 -8->pxout msp430 43 as ->https://siddharthnandhanp.wordpress.com/2015/06/07/pxdir-register/
     -P3DIR->0 means output and 1 means input
