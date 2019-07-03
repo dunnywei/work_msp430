@@ -1,3 +1,8 @@
+-12->msp430 timer and PWM
+       -http://www.ece.utep.edu/courses/web3376/Notes_files/ee3376-timer.ppt.pdf
+       -http://www.ece.utep.edu/courses/web3376/Notes.html
+       -
+
 -11->msp430 adc inversion
     -https://coder-tronics.com/msp430-adc-tutorial/
     -https://www.youtube.com/watch?v=2EkHDtLCw2M
