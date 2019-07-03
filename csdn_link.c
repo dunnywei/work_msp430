@@ -1,3 +1,5 @@
+-15->msp430+issh+adc->rising edge
+-https://e2e.ti.com/support/microcontrollers/msp430/f/166/t/322220
 -14->text book about msp430 and ADC->
     https://books.google.ca/books?id=TaWSAwAAQBAJ&pg=PA252&lpg=PA252&dq=falling+edge+and+ADC+and+msp430&source=bl&ots=xyuR_8RD7f&sig=ACfU3U2LVrhIdF0RtT9NZFZkfLxrArMRGQ&hl=en&sa=X&ved=2ahUKEwjx6Nej-5jjAhVrQt8KHTk3BOcQ6AEwEXoECAkQAQ#v=onepage&q=falling%20edge%20and%20ADC%20and%20msp430&f=false
 
