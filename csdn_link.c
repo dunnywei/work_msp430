@@ -1,3 +1,6 @@
+-11->msp430 adc inversion
+    -https://coder-tronics.com/msp430-adc-tutorial/
+    -https://www.youtube.com/watch?v=2EkHDtLCw2M
 -10->fall edge interrupt
     ->http://referencedesigner.com/blog/msp430-interrupt-rising-and-falling-edge/2089/
 -9->edge detection->https://www.youtube.com/watch?v=R3WSlk9lHss
