@@ -1,3 +1,6 @@
+-13->msp430 and adc and reboot
+    ->https://e2e.ti.com/support/microcontrollers/msp430/f/166/t/355858
+
 -12->msp430 timer and PWM
        -http://www.ece.utep.edu/courses/web3376/Notes_files/ee3376-timer.ppt.pdf
        -http://www.ece.utep.edu/courses/web3376/Notes.html
