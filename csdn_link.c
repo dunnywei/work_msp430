@@ -1,3 +1,7 @@
+-16->THRESH_ACT
+https://ez.analog.com/mems/f/q-a/86168/adxl375-thresh_act-thresh_inact-time_inact-register-values
+https://forums.adafruit.com/viewtopic.php?f=25&t=68927
+
 -15->msp430+issh+adc->rising edge
 -https://e2e.ti.com/support/microcontrollers/msp430/f/166/t/322220
 -14->text book about msp430 and ADC->
