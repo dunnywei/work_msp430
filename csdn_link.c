@@ -1,3 +1,6 @@
+-18->ti+i2c+read+modify+write to register
+https://github.com/yuvadm/tiva-c/blob/master/sensorlib/tmp100.c
+
 -17->ADXL343 interrupt
 https://learn.adafruit.com/adxl343-breakout-learning-guide/hw-interrupts
 
