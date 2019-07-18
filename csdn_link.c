@@ -1,3 +1,6 @@
+-17->ADXL343 interrupt
+https://learn.adafruit.com/adxl343-breakout-learning-guide/hw-interrupts
+
 -16->THRESH_ACT
 https://ez.analog.com/mems/f/q-a/86168/adxl375-thresh_act-thresh_inact-time_inact-register-values
 https://forums.adafruit.com/viewtopic.php?f=25&t=68927
