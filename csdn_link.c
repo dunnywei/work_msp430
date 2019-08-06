@@ -1,3 +1,6 @@
+-19->linux tyco csdn
+https://blog.csdn.net/lu_embedded/article/details/54380990
+
 -18->ti+i2c+read+modify+write to register
 https://github.com/yuvadm/tiva-c/blob/master/sensorlib/tmp100.c
 
