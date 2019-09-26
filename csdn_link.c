@@ -176,4 +176,8 @@ https://siddharthnandhanp.wordpress.com/2015/06/07/pxren-register-pull-updown-re
     -
     -
     -
-5->
+5->sector cluster csdn
+https://blog.csdn.net/scyatcs/article/details/82770833
+https://blog.csdn.net/william_munch/article/details/84347788
+6->fat32
+https://blog.csdn.net/csdn66_2016/article/details/88066637
