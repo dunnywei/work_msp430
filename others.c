@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/23701967/how-to-define-an-array-in-vxworks-s
 https://www.geeksforgeeks.org/understanding-extern-keyword-in-c/
 5->deoxygen in centos
 https://gist.github.com/slog2/cc853c34ded1dc1622165e95d95acd1c
+
+6->vxWorks debug
+http://www.menet.umn.edu/~tmorris/ME5271/lect3-vxdebug.htm
