@@ -18,3 +18,8 @@ https://blog.csdn.net/lininglive/article/details/41677963
 
 8->overun and underrun
 https://blog.csdn.net/zhang_danf/article/details/39005767
+
+
+9->Linux ALSA音频驱动（一）
+
+  https://www.cnblogs.com/cslunatic/archive/2013/05/15/3079383.html
