@@ -14,4 +14,5 @@ http://www.menet.umn.edu/~tmorris/ME5271/lect3-vxdebug.htm
 
 7->wav+window+frame
 https://stackoverflow.com/questions/8909497/how-to-retrieve-frame-number-and-frame-size-from-wav-file
+https://blog.csdn.net/lininglive/article/details/41677963
 
